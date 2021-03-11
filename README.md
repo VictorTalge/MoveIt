@@ -13,7 +13,7 @@ O Move It (ajudaSJ) é um projeto que visa ajudar pessoas que trabalham de forma
 ## Tecnologias usadas?
 
 - Html 5
-- Css 3
+- CSS 3
 - JavaScript
 - React Native
 - Next.js
